@@ -1,4 +1,4 @@
-Flask==2.3.3
+pandas==1.5.3
 yfinance==0.2.40
-pandas==2.2.2
 google-generativeai==0.4.1
+Flask==2.3.3
